@@ -36,6 +36,9 @@ The data for this dashboard was loaded from an Excel file. The following transfo
 
 4. Import the visuals and configure the dashboard layout as per the provided screenshot.
 
+5. Alternatively, you can download and view the Power BI dashboard directly from the following OneDrive link:
+    [Download Project Health Dashboard](https://onedrive.live.com/?authkey=%21AApQ1ZiG3PUDFbc&cid=DEA2EF3ACD24C00C&id=DEA2EF3ACD24C00C%2126042&parId=DEA2EF3ACD24C00C%2126041&o=OneUp) 
+
 ## Repository Structure
 
 project-health-score-card/<br>
